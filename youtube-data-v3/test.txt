@@ -1,0 +1,56 @@
+{
+    "etag": "Ss_TJg6U6P1pcMkqZ3gxxO0nKsg",
+    "items": [
+        {
+            "etag": "FDAG5eaOmLNXNzqsBzTHLrX0ZY8",
+            "id": "R4Oz8JUuM4s",
+            "kind": "youtube#video",
+            "snippet": {
+                "categoryId": "27",
+                "channelId": "UCkUq-s6z57uJFUFBvZIVTyg",
+                "channelTitle": "Indian Pythonista",
+                "defaultAudioLanguage": "en-US",
+                "description": "In this video, we try to explore various ways using which we can execute multiple HTTP requests using Python. We try synchronous and asynchronous techniques and find out which one works best.\n\nCode: https://github.com/nikhilkumarsingh/async-http-requests-tut\n\nMultiprocessing in Python: https://www.youtube.com/watch?v=Ju4xkvFm07o&list=PLyb_C2HpOQSDUh4kIJnprJjh5n5Wqsww8\n\nMultithreading in Python: https://www.youtube.com/watch?v=ZPM8TCz5cd8&list=PLyb_C2HpOQSC-Ncui9S4ncUdaGI2YEhwK\n\nConcurrent Programming in Python (asyncio): https://www.youtube.com/watch?v=y85G7GLYhYA&list=PLyb_C2HpOQSBsygWeCYkJ7wjxXShIql43\n\n------------------------------------------------------------\n\nExplore my tutorials: https://nikhilkumarsingh.github.io/tutorials/\n\nMore awesome topics covered here:\nWhatsApp Bot using Twilio and Python : https://tinyurl.com/y9n9ott5\nServerless Rest API using AWS and Python : https://tinyurl.com/y8yg4vem\nCreating Chat Application using Flask, Socket.IO & mongoDB : https://tinyurl.com/y8kbn4xu\nCurses in Python : https://tinyurl.com/y8ws3x4l\nDiscovering Hidden APIs : https://tinyurl.com/y7sdegoq\nRegEx in Python : https://tinyurl.com/y84cnuns\nPython for Data Science : https://tinyurl.com/yd7x6j5e\nIntroduction to Pandas : https://tinyurl.com/ycr4qytt\nIntroduction to Matplotlib : https://tinyurl.com/y8caem3r\nIntroduction to Numpy : https://tinyurl.com/yc8uhtn9\nFunctional Programming in Python : https://tinyurl.com/ybubzum6\nPython Package Publishing : https://tinyurl.com/ya2fn3wb\nMultithreading in Python : https://tinyurl.com/ycnummb8\nMultiprocessing in Python : https://tinyurl.com/y8qkjqtx\nParallel Programming in Python : https://tinyurl.com/yakl5udt\nConcurrent Programming in Python : https://tinyurl.com/y9ppkkhc\nDataclasses in Python : https://tinyurl.com/y8zfqleq\nExploring YouTube Data API : https://tinyurl.com/y7jhs8rm\nJust For Fun : https://tinyurl.com/y9on8gb5\nExploring AWS : https://tinyurl.com/ydxmhhz9\nJupyter Notebook (Tips, Tricks and Hacks) : https://tinyurl.com/y8qdhcrp\nDecorators in Python : https://tinyurl.com/y7ghraa9\nInside Python : https://tinyurl.com/yd8xqbjj\nExploring datetime : https://tinyurl.com/y96jzylm\nCollections in Python : https://tinyurl.com/ybxltgvk\nNetworking : https://tinyurl.com/y97eroql\nComputer Vision for noobs : https://tinyurl.com/y8pxz436\nPython for web : https://tinyurl.com/y829py3g\nAwesome Linux Terminal : https://tinyurl.com/y8no3zso\nIntermediate Python : https://tinyurl.com/yasmecaw\nTips, tricks, hacks and APIs : https://tinyurl.com/y9xqzzl4\nOptical Character Recognition : https://tinyurl.com/ybt3to6q\nFacebook Messenger Bot Tutorial : https://tinyurl.com/y9wvjc9g\n\n\nFacebook: https://www.facebook.com/IndianPythonista\nGithub: https://www.github.com/nikhilkumarsingh\nTwitter: https://twitter.com/nikhilksingh97\n\n------------------------------------------------------------\n\n#python #asyncio",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "description": "In this video, we try to explore various ways using which we can execute multiple HTTP requests using Python. We try synchronous and asynchronous techniques and find out which one works best.\n\nCode: https://github.com/nikhilkumarsingh/async-http-requests-tut\n\nMultiprocessing in Python: https://www.youtube.com/watch?v=Ju4xkvFm07o&list=PLyb_C2HpOQSDUh4kIJnprJjh5n5Wqsww8\n\nMultithreading in Python: https://www.youtube.com/watch?v=ZPM8TCz5cd8&list=PLyb_C2HpOQSC-Ncui9S4ncUdaGI2YEhwK\n\nConcurrent Programming in Python (asyncio): https://www.youtube.com/watch?v=y85G7GLYhYA&list=PLyb_C2HpOQSBsygWeCYkJ7wjxXShIql43\n\n------------------------------------------------------------\n\nExplore my tutorials: https://nikhilkumarsingh.github.io/tutorials/\n\nMore awesome topics covered here:\nWhatsApp Bot using Twilio and Python : https://tinyurl.com/y9n9ott5\nServerless Rest API using AWS and Python : https://tinyurl.com/y8yg4vem\nCreating Chat Application using Flask, Socket.IO & mongoDB : https://tinyurl.com/y8kbn4xu\nCurses in Python : https://tinyurl.com/y8ws3x4l\nDiscovering Hidden APIs : https://tinyurl.com/y7sdegoq\nRegEx in Python : https://tinyurl.com/y84cnuns\nPython for Data Science : https://tinyurl.com/yd7x6j5e\nIntroduction to Pandas : https://tinyurl.com/ycr4qytt\nIntroduction to Matplotlib : https://tinyurl.com/y8caem3r\nIntroduction to Numpy : https://tinyurl.com/yc8uhtn9\nFunctional Programming in Python : https://tinyurl.com/ybubzum6\nPython Package Publishing : https://tinyurl.com/ya2fn3wb\nMultithreading in Python : https://tinyurl.com/ycnummb8\nMultiprocessing in Python : https://tinyurl.com/y8qkjqtx\nParallel Programming in Python : https://tinyurl.com/yakl5udt\nConcurrent Programming in Python : https://tinyurl.com/y9ppkkhc\nDataclasses in Python : https://tinyurl.com/y8zfqleq\nExploring YouTube Data API : https://tinyurl.com/y7jhs8rm\nJust For Fun : https://tinyurl.com/y9on8gb5\nExploring AWS : https://tinyurl.com/ydxmhhz9\nJupyter Notebook (Tips, Tricks and Hacks) : https://tinyurl.com/y8qdhcrp\nDecorators in Python : https://tinyurl.com/y7ghraa9\nInside Python : https://tinyurl.com/yd8xqbjj\nExploring datetime : https://tinyurl.com/y96jzylm\nCollections in Python : https://tinyurl.com/ybxltgvk\nNetworking : https://tinyurl.com/y97eroql\nComputer Vision for noobs : https://tinyurl.com/y8pxz436\nPython for web : https://tinyurl.com/y829py3g\nAwesome Linux Terminal : https://tinyurl.com/y8no3zso\nIntermediate Python : https://tinyurl.com/yasmecaw\nTips, tricks, hacks and APIs : https://tinyurl.com/y9xqzzl4\nOptical Character Recognition : https://tinyurl.com/ybt3to6q\nFacebook Messenger Bot Tutorial : https://tinyurl.com/y9wvjc9g\n\n\nFacebook: https://www.facebook.com/IndianPythonista\nGithub: https://www.github.com/nikhilkumarsingh\nTwitter: https://twitter.com/nikhilksingh97\n\n------------------------------------------------------------\n\n#python #asyncio",
+                    "title": "Making multiple HTTP requests using Python (synchronous, multiprocessing, multithreading, asyncio)"
+                },
+                "publishedAt": "2020-05-18T08:23:29Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/R4Oz8JUuM4s/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/R4Oz8JUuM4s/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "maxres": {
+                        "height": 720,
+                        "url": "https://i.ytimg.com/vi/R4Oz8JUuM4s/maxresdefault.jpg",
+                        "width": 1280
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/R4Oz8JUuM4s/mqdefault.jpg",
+                        "width": 320
+                    },
+                    "standard": {
+                        "height": 480,
+                        "url": "https://i.ytimg.com/vi/R4Oz8JUuM4s/sddefault.jpg",
+                        "width": 640
+                    }
+                },
+                "title": "Making multiple HTTP requests using Python (synchronous, multiprocessing, multithreading, asyncio)"
+            }
+        }
+    ],
+    "kind": "youtube#videoListResponse",
+    "pageInfo": {
+        "resultsPerPage": 1,
+        "totalResults": 1
+    }
+}
